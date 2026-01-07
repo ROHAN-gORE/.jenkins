@@ -1,0 +1,3 @@
+Download Jenkins from the official website as a .war file or use a package manager/Docker image.
+Run the Jenkins server (e.g., java -jar jenkins.war) and access the setup wizard in your web browser, typically at http://localhost:8080.
+You will need to locate and use the initial admin password from the file path provided on the screen.
