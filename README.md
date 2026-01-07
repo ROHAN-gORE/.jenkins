@@ -1,4 +1,4 @@
-Jinkins job creating process
+Jinkins job creating steps
 STEP-BY-STEP: Creating Your First Freestyle Job
 Step 1: Access Jenkins Dashboard
 1.	Open browser
